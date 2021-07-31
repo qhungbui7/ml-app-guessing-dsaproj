@@ -1,0 +1,43 @@
+#Q Is it in Supervised Learning ?
+#Q Does it in Regression ? 
+#Q Does it can predict ? 
+#Q Does it is related to weater ? 
+#A Is it Weather Forecasting ? 
+#Q Is it related to stock ? 
+#A Is it Market Forecasting ? 
+#Q Is it related to population ? 
+#A Is it Population Growth Prediction ? 
+#Q Is it related to human life? 
+#A Is it Estimating Life Expectancy ? 
+#Q Is it related to Advertising ? 
+#A Is it Advertising Popularity Prediction ? 
+#A Does it exist?
+#A Does it exist?
+#Q Is it Classification ?
+#Q Is it related to health ? 
+#A Is it Diagnostics ? 
+#Q Is it the important part of Computer Vision ?
+#A Is it Image Classification ? 
+#Q Is it usually applied in many Camera ? 
+#A Is it Identity Fraud Detection 
+#A Is it Customer Retention ? 
+#A Does it exist?
+#Q Is it a part of Unsupervised Learning ? 
+#Q Is it an application of Clustering ?
+#Q Is it applied most in Netflix or Google - Youtube ?
+#A Is it Recommender System ? 
+#Q Does it helped entrepreneur to improve marketing strategy ?
+#A Is it Targetted Marketing ? 
+#A Is it Customer Segmentation ? 
+#Q Is it an application of Dimensionality Reduction ? 
+#A Is it Big Data Visualization ? 
+#A Is it Structure Discovery ? 
+#Q Is it Reinforcement Learning ?
+#Q Is it's famous for AlphaGo Zero / OpenAI Five / AlphaStar ? 
+#A Is it Game AI ? 
+#Q Can it be applied to Robotics ? 
+#A Is it Robot navigation ? 
+#Q Is stock / cryptocurrency prediction the field that this application works efficently ? 
+#A Is it Real-time descisions ? 
+#A Is it Learning Tasks ? 
+#A Does it exist ? 
